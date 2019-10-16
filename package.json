@@ -1,0 +1,21 @@
+{
+    "name": "brutalist",
+    "displayName": "Brutalist",
+    "description": "A Brutalist color theme (port of https://git.madhouse-project.org/algernon/brutalist-theme.el)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brutalist",
+                "uiTheme": "vs",
+                "path": "./themes/Brutalist-color-theme.json"
+            }
+        ]
+    }
+}
