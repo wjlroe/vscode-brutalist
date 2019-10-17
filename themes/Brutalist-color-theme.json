@@ -32,6 +32,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#585858"
 			}
 		},
@@ -39,6 +40,7 @@
 			"name": "Invalid - Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#660000"
 			}
 		},
@@ -77,6 +79,7 @@
 				"variable.language"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -86,6 +89,7 @@
 				"support.variable"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -95,6 +99,7 @@
 				"support.function"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -105,12 +110,14 @@
 				"support.class"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Exceptions",
 			"scope": "entity.name.exception",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -128,13 +135,15 @@
 				"constant"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#0000ff",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -155,12 +164,14 @@
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -172,6 +183,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -210,6 +222,7 @@
 				"punctuation.definition.entity"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -221,6 +234,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -230,6 +244,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -240,6 +255,7 @@
 				"support.constant.property-value"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -253,12 +269,14 @@
 			"name": "Markup: Changed",
 			"scope": "markup.changed",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Markup: Deletion",
 			"scope": "markup.deleted",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -272,18 +290,21 @@
 			"name": "Markup: Error",
 			"scope": "markup.error",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Markup: Insertion",
 			"scope": "markup.inserted",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Markup: Link",
 			"scope": "meta.link",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -293,18 +314,21 @@
 				"markup.raw"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Markup: Prompt",
 			"scope": "markup.prompt",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Markup: Heading",
 			"scope": "markup.heading",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -318,6 +342,7 @@
 			"name": "Markup: Traceback",
 			"scope": "markup.traceback",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -331,12 +356,14 @@
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -346,6 +373,7 @@
 				"markup.italic"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -363,18 +391,21 @@
 				"meta.separator"
 			],
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Extra: Diff From",
 			"scope": "meta.diff.header.from-file",
 			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
 			"name": "Extra: Diff To",
 			"scope": "meta.diff.header.to-file",
 			"settings": {
+				"fontStyle": ""
 			}
 		}
 	]
