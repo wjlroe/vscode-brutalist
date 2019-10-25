@@ -3,6 +3,10 @@
     "displayName": "Brutalist",
     "description": "A Brutalist color theme (port of https://git.madhouse-project.org/algernon/brutalist-theme.el)",
     "publisher": "willroe",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wjlroe/vscode-brutalist.git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.39.0"
