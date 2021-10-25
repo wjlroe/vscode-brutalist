@@ -7,7 +7,7 @@
         "type": "git",
         "url": "https://github.com/wjlroe/vscode-brutalist.git"
     },
-    "version": "0.0.3",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.39.0"
     },
@@ -20,6 +20,11 @@
                 "label": "Brutalist",
                 "uiTheme": "vs",
                 "path": "./themes/Brutalist-color-theme.json"
+            },
+            {
+                "label": "Brutalist Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Brutalist-dark-color-theme.json"
             }
         ]
     }
